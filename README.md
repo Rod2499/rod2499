@@ -5,7 +5,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/rod2499/post-install-config)
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/rod2499/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rod2499/azure-network-protocols)
 
 
