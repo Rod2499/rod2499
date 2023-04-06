@@ -2,7 +2,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/rod2499/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/rod2499/post-install-config)
+   - [osTicket: Post-Installation Configuration](https://github.com/rod2499/post-install-config)
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rod2499/azure-network-protocols)
